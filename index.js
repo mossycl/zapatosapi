@@ -14,7 +14,7 @@ app.get("/size/:size", getZapatosBySize);
 
 app.get("/tag/:tag", getZapatosByTag);
 
-app.get("/price/:price", filterByPrice);
+app.get("/price/:minPrice/:maxPrice", filterByPrice);
 
 app.listen(port, () =>{
     console.log(`Conectado con éxito en puerto ${port}`)

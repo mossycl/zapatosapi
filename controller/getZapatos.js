@@ -107,11 +107,12 @@ const getZapatosByTag = (req = request, res = response) => {
 };
 
 const filterByPrice = (req = request, res = response) => {
-    const price = req.params.price
+    const minPrice = req.params.minPrice
+    const maxPrice = req.params.maxPrice
 
     const zapatoFound = 
         zapatos.filter((zapato) => {
-            if (zapato.price <= price) {
+            if (zapato.price <= maxPrice && zapato.price >= minPrice) {
                 return zapato
             };
     });
