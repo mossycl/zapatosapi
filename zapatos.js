@@ -15,7 +15,7 @@ const zapatos = [
         "brand" : "Azaleia",
         "desc" : "Botín mujer Azaleia, taco cuadrado con aplicación decorativa lateral y ajuste de cierre interior.",
         "price" : 47990,
-        "img" : "/zapatos/azaleia/azaleia-coppera-negro.html",
+        "img" : "/assets/img/azaleia/azaleia-botin-coppera-negro.jpg",
         "sizes" : [35,36,37,38,39,40],
         "tag": ["mujer", "botas"]
     },
@@ -81,23 +81,23 @@ const zapatos = [
     },
     {
         "id" : 9,
-        "name" : "",
-        "brand" : "",
-        "desc" : "",
-        "price" : 0,
-        "img" : "",
-        "sizes" : [],
-        "tag": []
+        "name" : "Botin Hombre Accentor 3 Mid Waterproof Celeste",
+        "brand" : "Merrell",
+        "desc" : "Este botín waterproof de senderismo con suela adherente, protege tu pie y te brinda comodidad durante todo el día durante tu salida de trekking.",
+        "price" : 104990,
+        "img" : "https://merrellcl.vtexassets.com/arquivos/ids/351113-1200-auto?v=638399168291170000&width=1200&height=auto&aspect=true",
+        "sizes" : [39,40,41,42,43],
+        "tag": ["hombre", "zapatos"]
     },
     {
         "id" : 10,
-        "name" : "",
-        "brand" : "",
-        "desc" : "",
-        "price" : 0,
-        "img" : "",
-        "sizes" : [],
-        "tag": []
+        "name" : "Botin Hombre Accentor 3 Sport Mid Gore-Tex Café",
+        "brand" : "Merrell",
+        "desc" : "Este botín de trekking estilo deportivo, cuenta con una suela adherente e impermeabilización GORE-TEX, protegiendo tu pie y brindándote comodidad durante todo el día en tu salida de trekking.",
+        "price" : 114990,
+        "img" : "https://merrellcl.vtexassets.com/arquivos/ids/346774-1200-auto?v=638399070421600000&width=1200&height=auto&aspect=true",
+        "sizes" : [39,40,41,42,43,44],
+        "tag": ["hombre", "zapatos"]
     },
 ];
 
