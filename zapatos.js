@@ -1,6 +1,6 @@
 const zapatos = [
     {
-        "id" : 1,
+        "id" : 2001,
         "name" : "Azaleia Francisca 2 Cognac",
         "brand" : "Azaleia",
         "desc" : "Bota mujer Azaleia con plantilla de alta densidad que otorgar amortiguación y confort al caminar. Posee cierre interior que permite un ajuste perfecto al pie, y hebilla exterior decorativa. Forrada completamente hasta la punta.",
@@ -10,7 +10,7 @@ const zapatos = [
         "tag": ["mujer", "botas"]
     },
     {
-        "id" : 2,
+        "id" : 2002,
         "name" : "Botín Mujer Coppera",
         "brand" : "Azaleia",
         "desc" : "Botín mujer Azaleia, taco cuadrado con aplicación decorativa lateral y ajuste de cierre interior.",
@@ -20,7 +20,7 @@ const zapatos = [
         "tag": ["mujer", "botas"]
     },
     {
-        "id" : 3,
+        "id" : 2003,
         "name" : "Botín Westie Negro",
         "brand" : "Bata",
         "desc" : "Botín Westie Negro, marca Bata",
@@ -30,7 +30,7 @@ const zapatos = [
         "tag": ["mujer", "botas"]
     },
     {
-        "id" : 4,
+        "id" : 2004,
         "name" : "Zapato Sugey Negro Red Label",
         "brand" : "Bata",
         "desc" : "Zapato Sugey Negro Red Label, marca Bata",
@@ -40,7 +40,7 @@ const zapatos = [
         "tag": ["mujer", "zapatos"]
     },
     {
-        "id" : 5,
+        "id" : 2005,
         "name" : "Zapato Guante Toronto Grafito",
         "brand" : "Guante",
         "desc" : "Un look clásico casual es posible con los zapatos de cuero Toronto en color grafito. Sus detalles en azul le da un toque versátil y cool a tu outfit . Vive la semifomalidad en la oficina, en la ciudad o donde quieras.",
@@ -50,7 +50,7 @@ const zapatos = [
         "tag": ["hombre", "zapatos"]
     },
     {
-        "id" : 6,
+        "id" : 2006,
         "name" : "Botín Guante Casper Chocolate",
         "brand" : "Guante",
         "desc" : "Los zapatos Casper de cuero color chocolate, ideales para esa salida con amigos u ocasión en el que buscas resaltar con estilo. Combinables con lo que sea, este par se puede transformar en tu favorito de la temporada, pues, són cómodos y tienen una altura perfecta hasta el tobillo. En su punta redonda poseen un efecto quemado que les da un toque único.",
@@ -60,7 +60,7 @@ const zapatos = [
         "tag": ["hombre", "botines"]
     },
     {
-        "id" : 7,
+        "id" : 2007,
         "name" : "Botín Casual Masculino Marrón Panama Jack",
         "brand" : "Panama Jack",
         "desc" : "Botín Casual Masculino Marrón Panama Jack",
@@ -70,7 +70,7 @@ const zapatos = [
         "tag": ["hombre", "botines"]
     },
     {
-        "id" : 8,
+        "id" : 2008,
         "name" : "Botín Casual Masculino Marrón Panama Jack",
         "brand" : "Panama Jack",
         "desc" : "Botín Casual Masculino Marrón Panama Jack",
@@ -80,7 +80,7 @@ const zapatos = [
         "tag": ["hombre", "botines"]
     },
     {
-        "id" : 9,
+        "id" : 2009,
         "name" : "Botin Hombre Accentor 3 Mid Waterproof Celeste",
         "brand" : "Merrell",
         "desc" : "Este botín waterproof de senderismo con suela adherente, protege tu pie y te brinda comodidad durante todo el día durante tu salida de trekking.",
@@ -90,7 +90,7 @@ const zapatos = [
         "tag": ["hombre", "zapatos"]
     },
     {
-        "id" : 10,
+        "id" : 2010,
         "name" : "Botin Hombre Accentor 3 Sport Mid Gore-Tex Café",
         "brand" : "Merrell",
         "desc" : "Este botín de trekking estilo deportivo, cuenta con una suela adherente e impermeabilización GORE-TEX, protegiendo tu pie y brindándote comodidad durante todo el día en tu salida de trekking.",
